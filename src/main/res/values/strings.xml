@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">监测系统</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="atmosphere_pressure">大气压</string>
+    <string name="light_intensity">光照强度</string>
+    <string name="ammonia_concentration">氨气浓度</string>
+    <string name="carbon_dioxide">二氧化碳</string>
+    <string name="oxygen">氧气</string>
+    <string name="pm25">PM2.5</string>
+    <string name="noise">噪声</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="time">时间</string>
+    <string name="data">数据</string>
+    <string name="graph">图表</string>
+    <string name="set">设置</string>
+    <string name="environment">环境信息</string>
+    <string name="position">位置信息</string>
+
+</resources>
